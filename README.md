@@ -6,11 +6,11 @@
 
 - **Hızlı Tempolu Desen Çözme** 
 - **Artan Zorluk** 
-## 🌟 Amaç
+## Amaç
 
 Oyuncunun amacı, doğru parçaları zamanında yerleştirerek gelen desenleri tamamlamaktır. Reflekslerinizi ve görsel eşleştirme becerilerinizi sınayarak en yüksek puanı elde etmeye çalışın!
 
-## 🖼️ Ekran Görüntüleri
+## Ekran Görüntüleri
 
 
 
