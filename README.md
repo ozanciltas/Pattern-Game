@@ -1,18 +1,22 @@
 # Pattern Game
 
-**Pattern Game**, hızlı refleksler ve dikkat gerektiren, eğlenceli bir bulmaca oyunudur. Oyuncular, gelen desenleri çözerek doğru kırmızı parçaları yerleştirip deseni tamamlamaya çalışır. Basit ama bağımlılık yapan bu oyun, zekânızı ve hızınızı test ediyor!  
+**Pattern Game** is a fun puzzle game that requires quick reflexes and sharp focus. Players must solve incoming patterns by placing the correct red pieces to complete the designs. Simple yet addictive, this game challenges your intelligence and speed!  
 
-## 🎮 Oyun Özellikleri
+## 🎮 Game Features
 
-- **Hızlı Tempolu Desen Çözme** 
-- **Artan Zorluk** 
-## Amaç
+- **Fast-Paced Pattern Solving**  
+- **Increasing Difficulty**  
 
-Oyuncunun amacı, doğru parçaları zamanında yerleştirerek gelen desenleri tamamlamaktır. Reflekslerinizi ve görsel eşleştirme becerilerinizi sınayarak en yüksek puanı elde etmeye çalışın!
+## Objective
 
-## Ekran Görüntüleri
+The goal is to complete incoming patterns by placing the correct pieces in time. Test your reflexes and visual matching skills to achieve the highest score!  
 
+## Technical Details  
 
+- **Game Engine:** Unity  
+- **Programming Language:** C#  
+
+## Screenshots
 
 ![ezgif-1-566da01204](https://github.com/user-attachments/assets/b2fa0684-9c05-48f5-9f63-e74744c47a22)
 
