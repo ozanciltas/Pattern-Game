@@ -1,0 +1,17 @@
+{
+    "name": "PatternGame.Input",
+    "rootNamespace": "PatternGame.Input",
+    "references": [
+        "PatternGame.Core",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

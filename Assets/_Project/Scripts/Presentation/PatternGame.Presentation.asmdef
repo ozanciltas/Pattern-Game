@@ -1,0 +1,18 @@
+{
+    "name": "PatternGame.Presentation",
+    "rootNamespace": "PatternGame.Presentation",
+    "references": [
+        "PatternGame.Core",
+        "PatternGame.Grid",
+        "PatternGame.Gameplay"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

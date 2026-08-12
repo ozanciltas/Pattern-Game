@@ -1,0 +1,19 @@
+{
+    "name": "PatternGame.UI",
+    "rootNamespace": "PatternGame.UI",
+    "references": [
+        "PatternGame.Core",
+        "PatternGame.Gameplay",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,21 @@
+{
+    "name": "PatternGame.Bootstrap",
+    "rootNamespace": "PatternGame.Bootstrap",
+    "references": [
+        "PatternGame.Core",
+        "PatternGame.Grid",
+        "PatternGame.Gameplay",
+        "PatternGame.Input",
+        "PatternGame.Presentation",
+        "PatternGame.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
